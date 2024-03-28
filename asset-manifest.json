@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shop-react/static/css/main.fa7a9063.css",
+    "main.js": "/shop-react/static/js/main.2a5588f6.js",
+    "static/media/bootstrap.min.css.map": "/shop-react/static/media/bootstrap.min.css.24ed20e8476698dafba3.map",
+    "static/media/bootstrap.min.js.map": "/shop-react/static/media/bootstrap.min.js.f34a33061c31ff49cb6f.map",
+    "index.html": "/shop-react/index.html",
+    "main.fa7a9063.css.map": "/shop-react/static/css/main.fa7a9063.css.map",
+    "main.2a5588f6.js.map": "/shop-react/static/js/main.2a5588f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7a9063.css",
+    "static/js/main.2a5588f6.js"
+  ]
+}
